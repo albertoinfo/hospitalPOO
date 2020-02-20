@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PacienteGrave
+comment0.text=\n\ Write\ a\ description\ of\ class\ PacienteGrave\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=nombre\ gravedad
+comment1.target=PacienteGrave(java.lang.String,\ TipoGravedad)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PacienteGrave\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=TipoGravedad\ getGravedad()
+numComments=4
